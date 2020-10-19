@@ -4,7 +4,7 @@ USE choose_your_fighter_db;
 CREATE TABLE IF NOT EXISTS users (
 	id INT NOT NULL AUTO_INCREMENT,
     PRIMARY KEY (id),
-    user_name VARCHAR(255),
+    user_name VARCHAR(255)
     character
 );
 
