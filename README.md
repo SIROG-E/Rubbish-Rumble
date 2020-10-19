@@ -46,3 +46,5 @@
   
   ## Repository
   - [Project Rubbish Rumble Repo](https://github.com/jadavianett/Rubbish-Rumble)
+  - [My own Rubbish Rumble Repo](https://github.com/SIROG-E/Rubbish-Rumble)
+  - [Rubbish Rumble Heroku Deployment](http://rubbishrumble.herokuapp.com/)
