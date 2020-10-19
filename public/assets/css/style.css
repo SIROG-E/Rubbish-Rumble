@@ -4,11 +4,11 @@ h1 {
   font-family: "VT323", monospace;
   font-size: 128px;
   text-shadow: 5px 5px 5px #000000;
-  animation: heartBeat;
+  animation: rubberBand;
   animation-duration: 5s;
 }
 h6 {
-  animation: jackInTheBox;
+  animation: fadeInUp;
   animation-duration: 1s;
 }
 
@@ -79,7 +79,6 @@ form {
 
 .card-content {
   color: white !important;
-  /* text-shadow: 5px 5px 5px #000000; */
 }
 label {
   color: white !important;
